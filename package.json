@@ -1,0 +1,17 @@
+{
+	"name": "git-version-control-testing",
+	"version": "1.0.0",
+	"description": "Version Control testing",
+	"main": "index.js",
+	"scripts": {
+		"git:status": "git status",
+		"git:add": "git add .",
+		"git:commit": "git commit -m \"$(date)\"",
+		"git:push": "git push",
+		"git:add:commit": "git add . && git commit -m \"$(date)\"",
+		"git:add:commit:push": "git add . && git commit -m \"$(date)\" && git push"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC"
+}
