@@ -6,10 +6,8 @@
 	"scripts": {
 		"git:status": "git status",
 		"git:add": "git add .",
-		"git:commit": "git commit -m \"$(date)\"",
-		"git:push": "git push",
-		"git:add:commit": "git add . && git commit -m \"$(date)\"",
-		"git:add:commit:push": "git add . && git commit -m \"$(date)\" && git push"
+		"git:commit": "git add . && git commit -m \"$(date)\"",
+		"git:push": "git add . && git commit -m \"$(date)\" && git push"
 	},
 	"keywords": [],
 	"author": "",
