@@ -109,52 +109,37 @@ Unleash the excitement of immersive gaming with our advanced Game Development Se
 
 Below listed are some of our projects. To see details or know more about the project please refer to our website <https://ripeseed.io/our-work> OR contact us at https://ripeseed.io/contact-us.
 ## <a name="_8lu8ciibkbz5"></a>Projects:
+
 1. Platform: Web
-
 Technologies: Next.js
-
 Industry / Niche: Dashboard
 
 1. Platform: Web
-
 Technologies: React.js, Next.js, Strapi CMS
-
 Industry / Niche: Agency, Dashboard
 
 1. Platform: Chrome Extension
-
 Technologies: React.js, JavaScript, ChatGPT, GenAI
-
 Industry / Niche: Productivity, SaaS
 
 1. Platform: Web
-
 Technologies: Next.js Google Translate API, OpenAI
-
 Industry / Niche: Entertainment
 
 1. Platform: Chrome Extension
-
 Technologies: React.js, JavaScript, Chrome Manifest
-
 Industry / Niche: SEO, Business, SaaS
 
 1. Platform: Web
-
 Technologies: Next.js, Prisma, PrismaORM, StablityAI, ElevenLabs, polay, remotion, AWS Transcribe
-
 Industry / Niche: Entertainment, Dashboard
 
 1. Platform: Web
-
 Technologies: Vue.js, JavaScript
-
 Industry / Niche: Ecommerce
 
 1. Platform: Android App, iOS App, Cross Platform App
-
 Technologies: React Native, AWS, AWS Rekognition, AWS Lambda, AWS Amplify, TypeScript
-
 Industry / Niche: Loss Prevention, Security, SaaS
 
 1. Platform: Web
