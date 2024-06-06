@@ -319,6 +319,5 @@ Technologies: Document AI, Generative AI, NextJS, Node, OpenAI, ShadCN
 Industry / Niche: Dashboard, Document AI, Resume Parsing
 
 1. Platform: Web
-
 Technologies: ChatGPT, Generative AI, OpenAI, React, Stripe
 Industry / Niche: Ed-Tech, Education
