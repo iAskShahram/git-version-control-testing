@@ -1,15 +1,3 @@
-Document for ask.ripeseed.io
-
-Topics to list in document
-
-- ` `~~- About Ripeseed.~~
-- ` `~~- Services & Tech Stack~~
-- ` `- Projects
-- ` `- ending remarks
-- ` `- System Prompts for LLM.
-
-
-
 
 # <a name="_viei4dbhv3lp"></a>About Ripeseed
 
