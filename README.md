@@ -13,7 +13,7 @@ Topics to list in document
 
 # <a name="_viei4dbhv3lp"></a>About Ripeseed
 
-`	`RipeSeed is a leading custom software development company specializing in high-quality web and mobile applications for startups, individuals, and small to medium-sized businesses. With a team of expert developers, designers, and engineers, we deliver custom software solutions to meet your specific needs. 
+RipeSeed is a leading custom software development company specializing in high-quality web and mobile applications for startups, individuals, and small to medium-sized businesses. With a team of expert developers, designers, and engineers, we deliver custom software solutions to meet your specific needs. 
 
 Since our establishment in 2021, we have been dedicated to providing outstanding value and staying ahead of emerging technologies and trends. Our comprehensive services include website development, app development, UI/UX design, automation tools, AI/ChatGPT, Chrome extensions, and AWS/cloud services. With a track record of success, including generating over $500k+ in revenue, delivering 10,000+ hours of work on Upwork, and launching three in-house games, we are committed to exceeding expectations and helping your business thrive.
 
@@ -26,7 +26,7 @@ Since our founding in 2021, we have been driven by a mission to deliver outstand
 
 # <a name="_eco2wd4wxqb"></a>Services & Tech Stack
 
-`	`Following is the range of services, but not limited to, that ripeseed offers:
+Following is the range of services, but not limited to, that ripeseed offers:
 ## <a name="_hnns0xy9vzor"></a>Web Development:
 
 Our developers employ modern technologies like React.js, Next.js, Vue.js, Gatsby, and Nest.js to craft responsive, and scalable web applications. With expertise in deploying web applications on AWS and GCP, we guarantee minimal website downtime and deliver customized software solutions for diverse web projects.
@@ -111,319 +111,319 @@ Below listed are some of our projects. To see details or know more about the pro
 ## <a name="_8lu8ciibkbz5"></a>Projects:
 1. Platform: Web
 
-`	`Technologies: Next.js
+Technologies: Next.js
 
 Industry / Niche: Dashboard
 
 1. Platform: Web
 
-`	`Technologies: React.js, Next.js, Strapi CMS
+Technologies: React.js, Next.js, Strapi CMS
 
 Industry / Niche: Agency, Dashboard
 
 1. Platform: Chrome Extension
 
-`	`Technologies: React.js, JavaScript, ChatGPT, GenAI
+Technologies: React.js, JavaScript, ChatGPT, GenAI
 
 Industry / Niche: Productivity, SaaS
 
 1. Platform: Web
 
-`	`Technologies: Next.js Google Translate API, OpenAI
+Technologies: Next.js Google Translate API, OpenAI
 
 Industry / Niche: Entertainment
 
 1. Platform: Chrome Extension
 
-`	`Technologies: React.js, JavaScript, Chrome Manifest
+Technologies: React.js, JavaScript, Chrome Manifest
 
 Industry / Niche: SEO, Business, SaaS
 
 1. Platform: Web
 
-`	`Technologies: Next.js, Prisma, PrismaORM, StablityAI, ElevenLabs, polay, remotion, AWS Transcribe
+Technologies: Next.js, Prisma, PrismaORM, StablityAI, ElevenLabs, polay, remotion, AWS Transcribe
 
 Industry / Niche: Entertainment, Dashboard
 
 1. Platform: Web
 
-`	`Technologies: Vue.js, JavaScript
+Technologies: Vue.js, JavaScript
 
 Industry / Niche: Ecommerce
 
 1. Platform: Android App, iOS App, Cross Platform App
 
-`	`Technologies: React Native, AWS, AWS Rekognition, AWS Lambda, AWS Amplify, TypeScript
+Technologies: React Native, AWS, AWS Rekognition, AWS Lambda, AWS Amplify, TypeScript
 
 Industry / Niche: Loss Prevention, Security, SaaS
 
 1. Platform: Web
 
-`	`Technologies: React.js, gatsby.js
+Technologies: React.js, gatsby.js
 
 Industry / Niche: Entertainment
 
 1. Platform: Web
 
-`	`Technologies: React.js, OpenAI
+Technologies: React.js, OpenAI
 
 Industry / Niche: Travel, SaaS
 
 1. Platform: Web
 
-`	`Technologies: Web3, React.js, JavaScript, Nest.js
+Technologies: Web3, React.js, JavaScript, Nest.js
 
 Industry / Niche: Crypto, Blockchain, SaaS, Dashboard
 
 1. Platform: Android App
 
-`	`Technologies: Java, Kotlin, Android
+Technologies: Java, Kotlin, Android
 
 Industry / Niche: Utilities, Tools
 
 1. Platform: Android App
 
-`	`Technologies: Flutter, Dart
+Technologies: Flutter, Dart
 
 Industry / Niche: Entertainment, Social
 
 1. Platform: Android App
 
-`	`Technologies: Flutter, Dart, Firebase
+Technologies: Flutter, Dart, Firebase
 
 Industry / Niche: Entertainment, Social
 
 1. Platform: Android App
 
-`	`Technologies: Flutter, Dart
+Technologies: Flutter, Dart
 
 Industry / Niche: Entertainment, Social
 
 1. Platform: Android App, iOS App, Cross Platform App
 
-`	`Technologies: React Native, Firebase, MongoDB
+Technologies: React Native, Firebase, MongoDB
 
 Industry / Niche: Food
 
 1. Platform: Android App, iOS App, Cross Platform App
 
-`	`Technologies: React Native, Firebase, MongoDB, Analytics, JavaScript
+Technologies: React Native, Firebase, MongoDB, Analytics, JavaScript
 
 Industry / Niche: Productivity, SaaS, Tools
 
 1. Platform: Web
 
-`	`Technologies: React.js, Python, Flask, Stripe
+Technologies: React.js, Python, Flask, Stripe
 
 Industry / Niche: Entertainment, Tools
 
 1. Platform: Web
 
-`	`Technologies: Chrome Manifest, GatsbyJS, React, Web 3
+Technologies: Chrome Manifest, GatsbyJS, React, Web 3
 
 Industry / Niche: Blockchain, Crypto
 
 1. Platform: Android App, Game
 
-`	`Technologies: ChatGPT, OpenAI, Unity
+Technologies: ChatGPT, OpenAI, Unity
 
 Industry / Niche: AI
 
 1. Platform: Cross Platform App, Game
 
-`	`Technologies: Unity
+Technologies: Unity
 
 Industry / Niche: Entertainment, Game
 
 1. Platform: Game
 
-`	`Technologies: Firebase, Unity
+Technologies: Firebase, Unity
 
 Industry / Niche: Game
 
 1. Platform: Game
 
-`	`Technologies: Firebase, Unity
+Technologies: Firebase, Unity
 
 Industry / Niche: Game
 
 1. Platform: Game
 
-`	`Technologies: Firebase, Unity
+Technologies: Firebase, Unity
 
 Industry / Niche: Game
 
 1. Platform: Web
 
-`	`Technologies: Firebase, Node
+Technologies: Firebase, Node
 
 Industry / Niche: Resume Generation, SaaS
 
 1. Platform: Web
 
-`	`Technologies: NextJS, Node
+Technologies: NextJS, Node
 
 Industry / Niche: SaaS
 
 1. Platform: Web
 
-`	`Technologies: NextJS
+Technologies: NextJS
 
 Industry / Niche: Social, Appointment booking
 
 1. Platform: Web
 
-`	`Technologies: GAuth, Google Sheets, NestJS
+Technologies: GAuth, Google Sheets, NestJS
 
 Industry / Niche: Dashboard, SaaS
 
 1. Platform: Web
 
-`	`Technologies: NextJS, StoryBlok
+Technologies: NextJS, StoryBlok
 
 Industry / Niche: Affiliate Marketing
 
 1. Platform: Chrome Extension, Web
 
-`	`Technologies: Adsense, Firebase, React
+Technologies: Adsense, Firebase, React
 
 Industry / Niche: Charity
 
 1. Platform: MS Word Extension, Web
 
-`	`Technologies: Langchain, Pinecone, Python
+Technologies: Langchain, Pinecone, Python
 
 Industry / Niche: AI, NLP, Writing assistant
 
 1. Platform: Web
 
-`	`Technologies: Facebook Graph API, Graphql, Node, React, XState
+Technologies: Facebook Graph API, Graphql, Node, React, XState
 
 Industry / Niche: Marketing
 
 1. Platform: Web
 
-`	`Technologies: NextJS
+Technologies: NextJS
 
 Industry / Niche: Dashboard, Marketing, SEO
 
 1. Platform: Web
 
-`	`Technologies: MERN
+Technologies: MERN
 
 Industry / Niche: Crypto
 
 1. Platform: Web
 
-`	`Technologies: FastAPI, NextJS, Salesforce
+Technologies: FastAPI, NextJS, Salesforce
 
 Industry / Niche: Healthcare
 
 1. Platform: Web
 
-`	`Technologies: Flask, Python, React
+Technologies: Flask, Python, React
 
 Industry / Niche: AI
 
 1. Platform: Chrome Extension
 
-`	`Technologies: JQuery, Node, React, React Native
+Technologies: JQuery, Node, React, React Native
 
 Industry / Niche: appointment booking
 
 1. Platform: Web
 
-`	`Technologies: Django, Python, Retool
+Technologies: Django, Python, Retool
 
 Industry / Niche: Ecommerce
 
 1. Platform: Web
 
-`	`Technologies: .NET, C#, Docker, Node, React
+Technologies: .NET, C#, Docker, Node, React
 
 Industry / Niche: Healthcare, Therapy, appointment booking
 
 1. Platform: Web
 
-`	`Technologies: Flask, Langchain, Python
+Technologies: Flask, Langchain, Python
 
 Industry / Niche: AI, Media Coverage
 
 1. Platform: Web
 
-`	`Technologies: MERN
+Technologies: MERN
 
 Industry / Niche: AI, Business Management, Dashboard
 
 1. Platform: Web
 
-`	`Technologies: Angular, MySQL, php
+Technologies: Angular, MySQL, php
 
 Industry / Niche: Luggage Movers, Transport
 
 1. Platform: Chrome Extension
 
-`	`Technologies: MERN, PubSub
+Technologies: MERN, PubSub
 
 Industry / Niche: AI, Email Scheduling, auto email generation
 
 1. Platform: Chrome Extension
 
-`	`Technologies: React
+Technologies: React
 
 Industry / Niche: Job hunting, Resume Generation
 
 1. Platform: Web
 
-`	`Technologies: Node, React, Twilio
+Technologies: Node, React, Twilio
 
 Industry / Niche: Screen sharing, Video Calling
 
 1. Platform: Web
 
-`	`Technologies: Node, React
+Technologies: Node, React
 
 Industry / Niche: Real Estate
 
 1. Platform: Web
 
-`	`Technologies: MERN
+Technologies: MERN
 
 Industry / Niche: Blockchain, Cryptocurrency
 
 1. Platform: Web
 
-`	`Technologies: DRF, Django, Python
+Technologies: DRF, Django, Python
 
 Industry / Niche: Ecommerce
 
 1. Platform: Web
 
-`	`Technologies: Django, NextJS
+Technologies: Django, NextJS
 
 Industry / Niche: Music
 
 1. Platform: Web
 
-`	`Technologies: MERN
+Technologies: MERN
 
 Industry / Niche: Marketing analysis
 
 1. Platform: Web
 
-`	`Technologies: GatsbyJS, React
+Technologies: GatsbyJS, React
 
 Industry / Niche: Freelance
 
 1. Platform: Web
 
-`	`Technologies: Document AI, Generative AI, NextJS, Node, OpenAI, ShadCN
+Technologies: Document AI, Generative AI, NextJS, Node, OpenAI, ShadCN
 
 Industry / Niche: Dashboard, Document AI, Resume Parsing
 
 1. Platform: Web
 
-`	`Technologies: ChatGPT, Generative AI, OpenAI, React, Stripe
+Technologies: ChatGPT, Generative AI, OpenAI, React, Stripe
 
 Industry / Niche: Ed-Tech, Education
 
