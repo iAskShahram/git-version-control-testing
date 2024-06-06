@@ -143,274 +143,181 @@ Technologies: React Native, AWS, AWS Rekognition, AWS Lambda, AWS Amplify, TypeS
 Industry / Niche: Loss Prevention, Security, SaaS
 
 1. Platform: Web
-
 Technologies: React.js, gatsby.js
-
 Industry / Niche: Entertainment
 
 1. Platform: Web
-
 Technologies: React.js, OpenAI
-
 Industry / Niche: Travel, SaaS
 
 1. Platform: Web
-
 Technologies: Web3, React.js, JavaScript, Nest.js
-
 Industry / Niche: Crypto, Blockchain, SaaS, Dashboard
 
 1. Platform: Android App
-
 Technologies: Java, Kotlin, Android
-
 Industry / Niche: Utilities, Tools
 
 1. Platform: Android App
-
 Technologies: Flutter, Dart
-
 Industry / Niche: Entertainment, Social
 
 1. Platform: Android App
-
 Technologies: Flutter, Dart, Firebase
-
 Industry / Niche: Entertainment, Social
 
 1. Platform: Android App
-
 Technologies: Flutter, Dart
-
 Industry / Niche: Entertainment, Social
 
 1. Platform: Android App, iOS App, Cross Platform App
-
 Technologies: React Native, Firebase, MongoDB
-
 Industry / Niche: Food
 
 1. Platform: Android App, iOS App, Cross Platform App
-
 Technologies: React Native, Firebase, MongoDB, Analytics, JavaScript
-
 Industry / Niche: Productivity, SaaS, Tools
 
 1. Platform: Web
-
 Technologies: React.js, Python, Flask, Stripe
-
 Industry / Niche: Entertainment, Tools
 
 1. Platform: Web
-
 Technologies: Chrome Manifest, GatsbyJS, React, Web 3
-
 Industry / Niche: Blockchain, Crypto
 
 1. Platform: Android App, Game
-
 Technologies: ChatGPT, OpenAI, Unity
-
 Industry / Niche: AI
 
 1. Platform: Cross Platform App, Game
-
 Technologies: Unity
-
 Industry / Niche: Entertainment, Game
 
 1. Platform: Game
-
 Technologies: Firebase, Unity
-
 Industry / Niche: Game
 
 1. Platform: Game
-
 Technologies: Firebase, Unity
-
 Industry / Niche: Game
 
 1. Platform: Game
-
 Technologies: Firebase, Unity
-
 Industry / Niche: Game
 
 1. Platform: Web
-
 Technologies: Firebase, Node
-
 Industry / Niche: Resume Generation, SaaS
 
 1. Platform: Web
-
 Technologies: NextJS, Node
-
 Industry / Niche: SaaS
 
 1. Platform: Web
-
 Technologies: NextJS
-
 Industry / Niche: Social, Appointment booking
 
 1. Platform: Web
-
 Technologies: GAuth, Google Sheets, NestJS
-
 Industry / Niche: Dashboard, SaaS
 
 1. Platform: Web
-
 Technologies: NextJS, StoryBlok
-
 Industry / Niche: Affiliate Marketing
 
 1. Platform: Chrome Extension, Web
-
 Technologies: Adsense, Firebase, React
-
 Industry / Niche: Charity
 
 1. Platform: MS Word Extension, Web
-
 Technologies: Langchain, Pinecone, Python
-
 Industry / Niche: AI, NLP, Writing assistant
 
 1. Platform: Web
-
 Technologies: Facebook Graph API, Graphql, Node, React, XState
-
 Industry / Niche: Marketing
 
 1. Platform: Web
-
 Technologies: NextJS
-
 Industry / Niche: Dashboard, Marketing, SEO
 
 1. Platform: Web
-
 Technologies: MERN
-
 Industry / Niche: Crypto
 
 1. Platform: Web
-
 Technologies: FastAPI, NextJS, Salesforce
-
 Industry / Niche: Healthcare
 
 1. Platform: Web
-
 Technologies: Flask, Python, React
-
 Industry / Niche: AI
 
 1. Platform: Chrome Extension
-
 Technologies: JQuery, Node, React, React Native
-
 Industry / Niche: appointment booking
 
 1. Platform: Web
-
 Technologies: Django, Python, Retool
-
 Industry / Niche: Ecommerce
 
 1. Platform: Web
-
 Technologies: .NET, C#, Docker, Node, React
-
 Industry / Niche: Healthcare, Therapy, appointment booking
 
 1. Platform: Web
-
 Technologies: Flask, Langchain, Python
-
 Industry / Niche: AI, Media Coverage
 
 1. Platform: Web
-
 Technologies: MERN
-
 Industry / Niche: AI, Business Management, Dashboard
 
 1. Platform: Web
-
 Technologies: Angular, MySQL, php
-
 Industry / Niche: Luggage Movers, Transport
 
 1. Platform: Chrome Extension
-
 Technologies: MERN, PubSub
-
 Industry / Niche: AI, Email Scheduling, auto email generation
 
 1. Platform: Chrome Extension
-
 Technologies: React
-
 Industry / Niche: Job hunting, Resume Generation
 
 1. Platform: Web
-
 Technologies: Node, React, Twilio
-
 Industry / Niche: Screen sharing, Video Calling
 
 1. Platform: Web
-
 Technologies: Node, React
-
 Industry / Niche: Real Estate
 
 1. Platform: Web
-
 Technologies: MERN
-
 Industry / Niche: Blockchain, Cryptocurrency
 
 1. Platform: Web
-
 Technologies: DRF, Django, Python
-
 Industry / Niche: Ecommerce
 
 1. Platform: Web
-
 Technologies: Django, NextJS
-
 Industry / Niche: Music
 
 1. Platform: Web
-
 Technologies: MERN
-
 Industry / Niche: Marketing analysis
 
 1. Platform: Web
-
 Technologies: GatsbyJS, React
-
 Industry / Niche: Freelance
 
 1. Platform: Web
-
 Technologies: Document AI, Generative AI, NextJS, Node, OpenAI, ShadCN
-
 Industry / Niche: Dashboard, Document AI, Resume Parsing
 
 1. Platform: Web
-
 Technologies: ChatGPT, Generative AI, OpenAI, React, Stripe
-
 Industry / Niche: Ed-Tech, Education
-
-
-
